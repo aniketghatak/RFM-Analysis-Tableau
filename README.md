@@ -12,10 +12,10 @@ Monetary value: How much a customer spends on a brand's products and services.
 
 # **Project Details**
 
-Click the link to view the <a href="https://public.tableau.com/app/profile/aniketghatak/viz/RFManalysis_17301205701620/Dashboard1">
+Click the link to view the <a href="https://public.tableau.com/app/profile/aniketghatak/viz/RFManalysis_17301205701620/RFMAnalysis">
 Tableau dashboard 
 
-<img src="rfm-analysis.png"/>
+<img src="RFM-Analysis.png"/>
 </a>
 
 Note:
